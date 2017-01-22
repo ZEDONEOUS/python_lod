@@ -3,7 +3,7 @@ obtencion de recursos linked open data
 
 Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de la siguiente manera
 
-Datos filtrados:<br/>
+<strong>Datos filtrados:</strong><br/>
         title = nombre del dataset<br/>
         revision_id = id con el cual se puede consultar la lista de revision<br/>
         author = creador del dataset<br/>
