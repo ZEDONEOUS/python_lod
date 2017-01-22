@@ -1,0 +1,193 @@
+{
+    "packages": [
+        {
+            "author": "Fundaci\u00f3n MenteClara", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2015-12-15T19:11:56.962690", 
+            "metadata_modified": "2016-07-21T23:32:59.478932", 
+            "resources": [
+                {
+                    "format": "HTML", 
+                    "last_modified": null, 
+                    "name": "Oscar R. G\u00f3mez' Biography", 
+                    "state": "active", 
+                    "url": "https://datahub.io/dataset/74ec4b51-f745-4282-bb26-3c3746bf0f4e/resource/90232f11-5ac6-4dbf-b784-084bd51b3fd5/download/osybiography.htm"
+                }
+            ], 
+            "revision_id": "cd057c18-9a0e-4487-8157-53b61011a8ab", 
+            "title": "Oscar R. G\u00f3mez"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-01-03T17:30:43.472295", 
+            "metadata_modified": "2016-01-03T17:32:51.846019", 
+            "resources": [
+                {
+                    "format": "JPEG", 
+                    "last_modified": null, 
+                    "name": "Osy en la Feria del Libro de Buenos Aires, Argentina 2009", 
+                    "state": "active", 
+                    "url": ":///dataset/3e76285c-f97c-4186-ad53-5f83628bf026/resource/959da3ae-b5fd-44ee-960f-df40cf9b2f3d/download/osy-en-la-feria-del-libro-de-buenos-aires.jpg"
+                }
+            ], 
+            "revision_id": "3b062f22-cba5-4756-803f-12e05c8a95a8", 
+            "title": "Osy en la Feria del Libro de Buenos Aires, Argentina 2009"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-01-03T16:27:43.328522", 
+            "metadata_modified": "2016-01-03T16:38:20.449179", 
+            "resources": [
+                {
+                    "format": "JPEG", 
+                    "last_modified": null, 
+                    "name": "Firma escaneada de uno de sus libros", 
+                    "state": "active", 
+                    "url": ":///dataset/f68d84fc-c950-46e5-9f9e-700c912f5bb1/resource/6ebfa1e8-b978-433e-995c-dcb29fccc661/download/firmalibroosy.jpg"
+                }
+            ], 
+            "revision_id": "dc8277c3-c154-4a82-96b5-5947014e1d63", 
+            "title": "Firma de Osy"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-01-03T17:44:42.953022", 
+            "metadata_modified": "2016-05-11T09:28:48.149230", 
+            "resources": [
+                {
+                    "format": "JPEG", 
+                    "last_modified": null, 
+                    "name": "Certificaci\u00f3n del Doctorado Honoris Causa entregado a Osy en junio de 2008 por la Organizaci\u00f3n de las Americas", 
+                    "state": "active", 
+                    "url": ":///dataset/4c25d387-4a8b-4608-a274-71c8f0dbc619/resource/393e4176-2e9b-4380-bb49-63598859e03d/download/osydoctoradoodaee.jpg"
+                }
+            ], 
+            "revision_id": "c64a8198-2f43-4eae-b3cb-bec1f64f4ab5", 
+            "title": "Certificaci\u00f3n del Doctorado Honoris Causa entregado a Osy en junio de 2008 por la Organizaci\u00f3n de las Americas"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Creative Commons Attribution", 
+            "metadata_created": "2016-01-03T07:14:47.241123", 
+            "metadata_modified": "2016-01-05T18:06:51.948651", 
+            "resources": [
+                {
+                    "format": "PDF", 
+                    "last_modified": null, 
+                    "name": "acta-constitutiva-y-estatuto-fundacion", 
+                    "state": "active", 
+                    "url": ":///dataset/f3295893-43ee-4cf6-9135-1f7b833ebcea/resource/8ff6d3e7-5aff-4858-b1a0-4eb507c314c5/download/actayestatutofundacion.pdf"
+                }
+            ], 
+            "revision_id": "8eaf78a9-bb60-49ea-9a47-92fa743059c2", 
+            "title": "Acta Constitutiva y Estatuto Fundaci\u00f3n"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Open Data Commons Public Domain Dedication and License (PDDL)", 
+            "metadata_created": "2012-03-24T16:36:25.939256", 
+            "metadata_modified": "2013-10-10T19:26:44.693667", 
+            "resources": [
+                {
+                    "format": "ZIP", 
+                    "last_modified": "2012-03-24T16:36:27.301974", 
+                    "name": "2012-03-24T163602/1033-program-documents.zip", 
+                    "state": "active", 
+                    "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-03-24T163602/1033-program-documents.zip"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "last_modified": "2012-03-24T16:36:56.606587", 
+                    "name": "2012-03-24T163648/State-Savings-all-Commoditys-FY11-to-Sept-20-.xlsx", 
+                    "state": "active", 
+                    "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-03-24T163648/State-Savings-all-Commoditys-FY11-to-Sept-20-.xlsx"
+                }
+            ], 
+            "revision_id": "eff99678-1dd4-4ef3-a2c0-6fa35b317573", 
+            "title": "1033-prog"
+        }, 
+        {
+            "author": "", 
+            "license_title": "", 
+            "metadata_created": "2013-05-19T06:02:32.458047", 
+            "metadata_modified": "2013-10-10T19:26:45.604111", 
+            "resources": [
+                {
+                    "format": "XLS", 
+                    "last_modified": "2013-05-19T01:02:35.079035", 
+                    "name": "2013-05-19T060107/Top10DischargByDiagnosisTypeHospitalNtionltySex-2009.xls", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-05-19T060107/Top10DischargByDiagnosisTypeHospitalNtionltySex-2009.xls"
+                }
+            ], 
+            "revision_id": "6f65dadc-c217-42a4-ae2a-b526aa070b08", 
+            "title": "Top Ten Leading Discharges Alive and Dead by Principal Diagnosis, Type of Hospital, Nationality and Sex 2009"
+        }, 
+        {
+            "author": "", 
+            "license_title": "Other (Open)", 
+            "metadata_created": "2014-11-27T20:43:26.857133", 
+            "metadata_modified": "2014-11-27T20:43:26.857133", 
+            "resources": [], 
+            "revision_id": "0464a8dd-2a1e-46c4-b934-a233a1960d40", 
+            "title": "12"
+        }, 
+        {
+            "author": "", 
+            "license_title": "License not specified", 
+            "metadata_created": "2014-11-27T20:47:15.164817", 
+            "metadata_modified": "2014-11-27T20:47:15.164817", 
+            "resources": [], 
+            "revision_id": "b153e6b4-bcd1-4166-9e38-1f0ff16d012f", 
+            "title": "13"
+        }, 
+        {
+            "author": "US Census Bureay", 
+            "license_title": "Creative Commons CCZero", 
+            "metadata_created": "2015-03-24T07:16:52.421780", 
+            "metadata_modified": "2015-03-24T07:40:43.084765", 
+            "resources": [
+                {
+                    "format": "CSV", 
+                    "last_modified": null, 
+                    "name": "CSV Format", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-24T07:17:12.381Z/1790-2010-historical-population-york-county-virginia.csv"
+                }, 
+                {
+                    "format": "ODS", 
+                    "last_modified": null, 
+                    "name": "ODS Format", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-24T07:17:42.745Z/1790-2010-historical-population-york-county-virginia.ods"
+                }, 
+                {
+                    "format": "CSV", 
+                    "last_modified": null, 
+                    "name": "CSV Format", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-24T07:38:24.055Z/1790-2010-historical-population-york-county-virginia.csv"
+                }, 
+                {
+                    "format": "ODS", 
+                    "last_modified": null, 
+                    "name": "ODS Format", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-24T07:39:03.851Z/1790-2010-historical-population-york-county-virginia.ods"
+                }, 
+                {
+                    "format": "XLSX", 
+                    "last_modified": null, 
+                    "name": "XLSX Format", 
+                    "state": "active", 
+                    "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-24T07:39:24.862Z/1790-2010-historical-population-york-county-virginia.xlsx"
+                }
+            ], 
+            "revision_id": "70cf3663-299c-48ba-8f14-e152ff126426", 
+            "title": "1790-2010 Historical Population York County, Virginia"
+        }
+    ]
+}
