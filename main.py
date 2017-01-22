@@ -80,6 +80,8 @@ def fetch_package_revision_list(id_package, query_point):
         license_title = licencia bajo la cual se encuentra el recurso
         metadata_created = fecha de la creacion del metadata del dataset
         metadata_modified = fecha de la ultima modificacion del metadata del dataset
+        relationships_as_object = relaciones que tiene el dataset como objeto
+        relationships_as_subject = relaciones que tiene el dataset como sujeto
 """
 def fetch_all_datasets_package_metadata():
     fetch_datasets_package_list()
@@ -98,6 +100,8 @@ def fetch_all_datasets_package_metadata():
                 temp_obj["license_title"] = package_metadata["result"]["license_title"]
                 temp_obj["metadata_created"] = package_metadata["result"]["metadata_created"]
                 temp_obj["metadata_modified"] = package_metadata["result"]["metadata_modified"]
+                temp_obj["relationships_as_object"] = package_metadata["result"]["relationships_as_object"]
+                temp_obj["relationships_as_subject"] = package_metadata["result"]["relationships_as_subject"]
 
                 temp_obj["resources"] = []
                 for j in xrange(0, len(package_metadata["result"]["resources"])):

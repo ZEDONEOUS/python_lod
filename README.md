@@ -9,5 +9,7 @@ Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de 
         license_title = licencia bajo la cual se encuentra el recurso<br/>
         metadata_created = fecha de la creacion del metadata del dataset<br/>
         metadata_modified = fecha de la ultima modificacion del metadata del dataset<br/>
+        relationships_as_object = relaciones que tiene el dataset como objeto <br/>
+        relationships_as_subject = relaciones que tiene el dataset como sujeto <br/>
 
 archivo de salida (package_lecture_filter.json)

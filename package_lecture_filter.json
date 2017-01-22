@@ -5,6 +5,8 @@
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2015-12-15T19:11:56.962690", 
             "metadata_modified": "2016-07-21T23:32:59.478932", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "HTML", 
@@ -22,6 +24,8 @@
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-01-03T17:30:43.472295", 
             "metadata_modified": "2016-01-03T17:32:51.846019", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "JPEG", 
@@ -39,6 +43,8 @@
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-01-03T16:27:43.328522", 
             "metadata_modified": "2016-01-03T16:38:20.449179", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "JPEG", 
@@ -56,6 +62,8 @@
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-01-03T17:44:42.953022", 
             "metadata_modified": "2016-05-11T09:28:48.149230", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "JPEG", 
@@ -73,6 +81,8 @@
             "license_title": "Creative Commons Attribution", 
             "metadata_created": "2016-01-03T07:14:47.241123", 
             "metadata_modified": "2016-01-05T18:06:51.948651", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "PDF", 
@@ -90,6 +100,8 @@
             "license_title": "Open Data Commons Public Domain Dedication and License (PDDL)", 
             "metadata_created": "2012-03-24T16:36:25.939256", 
             "metadata_modified": "2013-10-10T19:26:44.693667", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "ZIP", 
@@ -114,6 +126,8 @@
             "license_title": "", 
             "metadata_created": "2013-05-19T06:02:32.458047", 
             "metadata_modified": "2013-10-10T19:26:45.604111", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "XLS", 
@@ -131,6 +145,8 @@
             "license_title": "Other (Open)", 
             "metadata_created": "2014-11-27T20:43:26.857133", 
             "metadata_modified": "2014-11-27T20:43:26.857133", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [], 
             "revision_id": "0464a8dd-2a1e-46c4-b934-a233a1960d40", 
             "title": "12"
@@ -140,6 +156,8 @@
             "license_title": "License not specified", 
             "metadata_created": "2014-11-27T20:47:15.164817", 
             "metadata_modified": "2014-11-27T20:47:15.164817", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [], 
             "revision_id": "b153e6b4-bcd1-4166-9e38-1f0ff16d012f", 
             "title": "13"
@@ -149,6 +167,8 @@
             "license_title": "Creative Commons CCZero", 
             "metadata_created": "2015-03-24T07:16:52.421780", 
             "metadata_modified": "2015-03-24T07:40:43.084765", 
+            "relationships_as_object": [], 
+            "relationships_as_subject": [], 
             "resources": [
                 {
                     "format": "CSV", 
