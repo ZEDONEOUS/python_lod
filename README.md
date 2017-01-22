@@ -1,7 +1,6 @@
 # python_lod
-obtencion de recursos linked open data
-
-Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de la siguiente manera
+Obtencion de recursos linked open data.
+Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de la siguiente manera.
 
 <strong>Datos filtrados:</strong><br/>
         title = nombre del dataset<br/>
