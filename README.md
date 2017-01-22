@@ -4,7 +4,7 @@ obtencion de recursos linked open data
 Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de la siguiente manera
 
 Datos filtrados:
-        title = nombre del dataset
+        title = nombre del dataset /br
         revision_id = id con el cual se puede consultar la lista de revision
         author = creador del dataset
         license_title = licencia bajo la cual se encuentra el recurso
