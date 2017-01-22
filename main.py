@@ -55,6 +55,8 @@ def fetch_dataset_package_metadata(id_package, query_point):
     consulta = consulta + "?id=" + str(id_package) + " > package_metadata.json"
     os.system(consulta);
 
+
+
 """
     Obtiene una lista de revision de un dataset en especifico
     Variables:
@@ -66,6 +68,8 @@ def fetch_package_revision_list(id_package, query_point):
     consulta = consulta + query_point + "api/3/action/package_revision_list"
     consulta = consulta + "?id=" + str(id_package) + " > package_revision_list.json"
     os.system(consulta);
+
+
 
 """
     Obtiene el metadata filtrado de cada dataset consultado previamente de la lista
@@ -113,4 +117,6 @@ def fetch_all_datasets_package_metadata():
     outfile.close()
 
 
-fetch_all_datasets_package_metadata()
+
+if __name__ == '__main__':
+    fetch_all_datasets_package_metadata()
