@@ -2,6 +2,7 @@
 
 import os
 import json
+import time
 
 """
     Desarrolla una lectura preeliminar del sitio
@@ -84,12 +85,13 @@ def fetch_package_revision_list(id_package, query_point):
         relationships_as_subject = relaciones que tiene el dataset como sujeto
 """
 def fetch_all_datasets_package_metadata():
+    last_time = time.time()
     fetch_datasets_package_list()
     with open("datasets_package_list.json") as data_file_list:
         datasets_list = json.load(data_file_list)
         metadata = {}
         metadata["packages"] = []
-        for i in xrange(0, 10):
+        for i in xrange(0, 1000):
             fetch_dataset_package_metadata(datasets_list["result"][i], "https://datahub.io/")
             with open("package_metadata.json") as metadata_file:
                 package_metadata = json.load(metadata_file)
@@ -119,6 +121,7 @@ def fetch_all_datasets_package_metadata():
     with open('package_lecture_filter.json', 'w') as outfile:
         json.dump(metadata, outfile, indent=4, sort_keys=True)
     outfile.close()
+    print "Tiempo que tardo la recoleccion de datos:", (time.time() - last_time), "segundos"
 
 
 
