@@ -2,6 +2,14 @@
 Obtencion de recursos linked open data.
 Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de la siguiente manera.
 
+## Ejecución del programa
+```
+## -------------------------------
+python main.py -r [sitio] - lectura del sitio
+python main.py -d [sitio] - lista de dataset del sitio
+python main.py -f [sitio] -l [limite] - obtiene el metadata filtrado de los dataset del sitio, limitado
+```
+
 <strong>Datos filtrados:</strong><br/>
 Obtiene el metadata filtrado de cada dataset consultado previamente de la lista
 ```
