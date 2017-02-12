@@ -176,9 +176,5 @@ if __name__ == '__main__':
     elif(len(sys.argv) == 5):
         if(sys.argv[1] == "-f" and sys.argv[3] == "-l"):
             fetch_all_datasets_package_metadata(sys.argv[2], sys.argv[4])
-            with open("package_lecture_filter.json") as output_file:
-                json_file = json.load(output_file)
-                print json.dumps(json_file, indent=2, sort_keys=True)
-            output_file.close()
     else:
         print control_input

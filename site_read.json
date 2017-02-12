@@ -1,5 +1,5 @@
 {
-    "help": "http://open.alberta.ca/api/3/action/help_show?name=site_read", 
+    "help": "https://datahub.io/api/3/action/help_show?name=site_read", 
     "result": true, 
     "success": true
 }
