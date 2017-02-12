@@ -4,7 +4,7 @@ Restringido a 10 recursos por falta de capacidad de procesamiento , filtrado de 
 
 <strong>Datos filtrados:</strong><br/>
 Obtiene el metadata filtrado de cada dataset consultado previamente de la lista
-'''
+```
     title = nombre del dataset
     revision_id = id con el cual se puede consultar la lista de revision
     author = creador del dataset
@@ -25,5 +25,5 @@ Obtiene el metadata filtrado de cada dataset consultado previamente de la lista
     tags =
         tag_name = nombre del tag
         tag_id = id perteneciente al tag
-'''
+```
 <br/>archivo de salida (package_lecture_filter.json)
